@@ -12,10 +12,10 @@ kramdown:
   input: GFM
   syntax_highlighter: rouge
 
-plugins_dir:
-  - jekyll-paginate
-paginate: 10
-paginate_path: /page-:num
+# plugins_dir:
+  # - jekyll-paginate
+# paginate: 10
+# paginate_path: /page-:num
 
 #disqus-id: your-disqus-id
 disqus:
