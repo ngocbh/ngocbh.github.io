@@ -5,7 +5,20 @@ title: Ngoc Bui's homepage
 
 ## News
 {% assign new_list = site.data.news | sort:"date" %}
-<ul>
+<div id="content"></div>
+<p
+      style="
+        margin-left: 22px;
+        color: rgb(0, 0, 238);
+        margin-top: 0px;
+        text-decoration: underline;
+        cursor: pointer;
+      "
+      id="loadmore"
+    >
+      more...
+    </p>
+<ul id='newList' style="display: none;">
 {% for new in new_list reversed %}
     <li>{{new.date | date: "%b %-d, %Y" }}: {{new.content | markdownify | remove: '<p>' | remove: '</p>' }}</li>
 {% endfor %}
@@ -48,7 +61,7 @@ Minh Regional, *2017*.
 * Email: ngocbh.pt (at) gmail (dot) com
 * Github: [ngocbh](https://github.com/ngocbh)
 
-## Mascot
+## Signature
 
 This is Consenkid.
 

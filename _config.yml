@@ -12,6 +12,8 @@ kramdown:
   input: GFM
   syntax_highlighter: rouge
 
+new_size: 10
+
 # plugins_dir:
   # - jekyll-paginate
 # paginate: 10

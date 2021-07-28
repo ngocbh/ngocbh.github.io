@@ -29,4 +29,44 @@
 
     <!-- {% include footer.html %} -->
 </body>
+
+<script type="text/javascript">
+    var pageSize = {{ site.new_size }};
+
+    // Lấy ra tất cả li trong cái list đó
+    var tags = Array.from(document.querySelectorAll("#newList li"));
+    // Cắt ra 10 thằng đầu tiên để hiển thị, tags array sẽ mất đi 10 cái
+    var showTags = tags.splice(0, pageSize);
+
+    // Lấy dom để chứa content
+    const content = document.getElementById("content");
+
+    // Hàm show content nhận vào list tags cần show
+    const showContent = (tags) => {
+      tags.map((x) => content.appendChild(x));
+    };
+
+    // Gọi lần đầu ra
+    showContent(showTags);
+
+    // query nut load more
+    var button = document.getElementById("loadmore");
+
+    // Lần đầu show mà ko đủ 10 cái thì ẩn nút loadmore đi
+    if (tags.length === 0) {
+      button.style.display = "none";
+    }
+
+    // Add sự kiện vào nút loadmore
+    button.addEventListener("click", () => {
+      // Khi ấn thì cắt 10 cái tiếp ở tags cho vào showTags
+      showTags = [...showTags, ...tags.splice(0, pageSize)];
+      showContent(showTags);
+      // Nếu tags hết thì ẩn nút loadmore
+      if (tags.length === 0) {
+        button.style.display = "none";
+      }
+    });
+
+</script>
 </html>
