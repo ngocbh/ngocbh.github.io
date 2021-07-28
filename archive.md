@@ -1,5 +1,7 @@
 ---
 layout: default
 title: Archive
+permalink: /archive/
 ---
-<h2>Archive</h2>
+
+## Archive

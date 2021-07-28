@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Ngoc Bui's homepage
 ---
 
 ## News
