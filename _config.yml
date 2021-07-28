@@ -1,5 +1,5 @@
-name: "Jekyll true minimal theme"
-description: "Lightweight theme"
+name: "Ngoc Bui"
+# description: "A student, VinAI Research Resident"
 
 url: '' 
 baseurl: ''
@@ -12,12 +12,15 @@ kramdown:
   input: GFM
   syntax_highlighter: rouge
 
-plugins:
+plugins_dir:
   - jekyll-paginate
 paginate: 10
 paginate_path: /page-:num
 
 #disqus-id: your-disqus-id
+disqus:
+  shortname: ngocjr7
+  public_key: 0FfcM93k8k3fn8vFYR7OTWLPbUbEUqQRT7H2m9Dtzhr5p0W4TtGeAYWgIBfW3gBv # e.g. ULZ0b9TFefCUJHKQd4JCKv2v3u27YoG7YG8zXPewkWrT333Z0Se9YnxLzoV6VM8W
 
 source: .
 destination: ./_site

@@ -1,0 +1,66 @@
+body {
+    display: block;
+    margin: 8px;
+}
+
+.profile {
+    display:inline;
+    margin:5px 10px 0px 0px;
+    float:left
+}
+
+
+body {
+    font-family: Georgia, sans-serif;
+    width: 92.5%;
+    max-width: 90em;
+    margin: 0 auto;
+    text-align: justify;
+    min-height: 100%;
+    height: 100%;
+}
+
+.wrap {
+    word-wrap: normal;
+    justify-content: center;
+    text-align: justify;
+    margin-left: 0em;
+    margin-right: 0em;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.footer {
+    clear: both;
+    position: relative;
+    margin-top: auto;
+    bottom: 0;
+    width: 92.5%;
+}
+
+code {
+    white-space : pre-wrap !important;
+    word-wrap: normal !important;
+    justify-content: center !important;
+}
+
+.code {
+    white-space : pre-wrap !important;
+    word-wrap: normal !important;
+    justify-content: center !important;
+}
+
+
+h1, h2, h3 {
+    font-family: Arial;
+    line-height: 1.4em;
+    text-align: left;
+    color: #00a;
+}
+
+

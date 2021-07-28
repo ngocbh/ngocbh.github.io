@@ -1,5 +1,28 @@
 <header>
-    <h1><a href='{{ site.url }}/'>{{ site.name }}</a></h1>
-</header>
-<a href='{{ site.url }}/'> Home</a> | <a href='{{ site.url }}/about/'>About </a> | <a href='{{ site.url }}/contact/'> Contacts</a> | <a href='{{ site.url }}/archive/'> Archive</a> 
+            <h1 style='line-height: 0em;'>{{ site.name }}</h1>
 <hr>
+</header>
+
+<table style='display: block;margin-left: auto;margin-right: auto;width: 50%;'>
+    <tr>
+    <td>
+        <img src="{{ '/assets/images/profile_picture.png' | relative_url }}" height="150"  alt="Ngoc Bui" class='profile'/>
+    </td>
+    <td>    
+        <h3>Ngoc Hong Bui</h3>
+        {% for job in site.data.infos.jobs %}
+          <span>A {{job.position}} at {{job.institute}}</span> <br>
+        {% endfor %}
+        <div style="margin-top:0em;margin-bottom:0.75em"></div>
+        <span style="margin-top:0em;margin-bottom:0.75em">Email: ngocbh.pt (at) gmail (dot) com</span>
+        <br>
+         <a href='{{ site.url }}'>Home</a>  |
+         <a href='{{ site.url }}#contact/'> Contacts</a> | 
+         <a href='/assets/pdf/ngocbh_resume.pdf' target="_blank"> Résumé</a> | 
+         <a href='{{ site.url }}/blog/'> Blog</a> | 
+         <a href='{{ site.url }}/archive/'> Archive</a> 
+    </td>
+</tr>
+</table>
+
+
