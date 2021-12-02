@@ -27,11 +27,11 @@ layout: default
 ## Biography
 
 Ngoc Hong Bui is currently a resident (research intern) at VinAI Research, Vietnam. 
-He is also pursuing graduate degree at Hanoi University of Science and Technology.
+He is also pursuing a graduate degree at Hanoi University of Science and Technology.
 
 He received a Bachelor of Science in Computer Science from Hanoi University of Science and Technology in 2021. As an undergraduate student, he participated in some research projects in Natural Language Processing and Operation Research as a collaborator in DSLAB and MSOLAB (HUST).
 
-His career aspiration is to become a research scientist in Machine Learning. However, he is still on the way to find specialized research topics to pursue.
+His career aspiration is to become a research scientist in Machine Learning. However, he is still on the way to finding specialized research topics to pursue.
 
 ## Publications
 
