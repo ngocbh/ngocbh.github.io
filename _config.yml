@@ -1,33 +1,28 @@
-name: "Ngoc Bui"
-# description: "A student, VinAI Research Resident"
-
-url: '' 
+---
+title: Ngocbh.Github.Io
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+name: Ngoc Bui
+url: ''
 baseurl: ''
-
 markdown: kramdown
-markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+markdown_ext: markdown,mkdown,mkdn,mkd,md
 highlighter: rouge
-
 kramdown:
   input: GFM
   syntax_highlighter: rouge
-
 new_size: 10
-
-# plugins_dir:
-  # - jekyll-paginate
-# paginate: 10
-# paginate_path: /page-:num
-
-#disqus-id: your-disqus-id
 disqus:
   shortname: ngocjr7
-  public_key: 0FfcM93k8k3fn8vFYR7OTWLPbUbEUqQRT7H2m9Dtzhr5p0W4TtGeAYWgIBfW3gBv # e.g. ULZ0b9TFefCUJHKQd4JCKv2v3u27YoG7YG8zXPewkWrT333Z0Se9YnxLzoV6VM8W
-
-source: .
-destination: ./_site
-
+  public_key: 0FfcM93k8k3fn8vFYR7OTWLPbUbEUqQRT7H2m9Dtzhr5p0W4TtGeAYWgIBfW3gBv
+source: "."
+destination: "./_site"
 sass:
-    style: :compressed
-    sass_dir: assets/css/
-
+  style: :compressed
+  sass_dir: assets/css/
