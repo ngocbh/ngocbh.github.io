@@ -1,4 +1,4 @@
-# levytsroman.github.io
+# ngocbh.github.io
 
 Personal portfolio page, aspiring jekyll theme.
 
@@ -17,12 +17,12 @@ Make sure Ruby is installed on your computer, for detailed information on how ch
 3) clone the repo by running in your bash terminal/cmd, make sure to change url below to url of your own fork.
 
 ```
-git clone https://github.com/LevytsRoman/levytsroman.github.io.git
+git clone https://github.com/ngocbh/ngocbh.github.io.git
 ```
 
 4) go into the folder with 
 ```
-cd levytsroman.github.io
+cd ngocbh.github.io
 ```
 
 5) run 

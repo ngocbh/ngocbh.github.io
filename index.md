@@ -26,18 +26,20 @@ layout: default
 
 ## Biography
 
-Ngoc Hong Bui is currently a resident (research intern) at VinAI Research, Vietnam. 
-He is also pursuing a graduate degree at Hanoi University of Science and Technology.
+Ngoc Bui is currently a research resident under supervision of Dr. Viet-Anh Nguyen at VinAI Research. He is also pursuing a Master degree in Data Science and Artifical Intelligence at Hanoi University of Science and Technology.
 
-He received a Bachelor of Science in Computer Science from Hanoi University of Science and Technology in 2021. As an undergraduate student, he participated in some research projects in Natural Language Processing and Operation Research as a collaborator in DSLAB and MSOLAB (HUST).
+He received a BEng in computer science (under supervision of Assoc. Prof. Do Phan Thuan and Dr. Nguyen Phi Le) from Hanoi University of Science and Technology in 2021. As an undergraduate student, he participated in research projects in Natural Language Processing (with Dr. Viet-Trung Tran) and Operation Research (with Assoc. Prof. Huynh Thi Thanh Binh) as a collaborator in DSLAB and MSOLAB (HUST).
 
-His career aspiration is to become a research scientist in Machine Learning. However, he is still on the way to finding specialized research topics to pursue.
+
+He is interested in using reinforcement learning, graph neural network, and distributional robust optimization to tackle operation research problems, algorithmic reasoning and promote robustness and explainability in machine learning models. 
+
 
 ## Publications
 
 #### Conferences
 
-* **Hong-Ngoc Bui**, and Viet-Trung Tran. "A Novel Conditional Random Fields Aided Fuzzy Matching in Vietnamese Address Standardization." *Proceedings of the Tenth International Symposium on Information and Communication Technology (SoICT)*. 2019. [[.pdf]](/assets/pdf/ngocbh_soict_2019.pdf)
+* **Ngoc Bui**, Duy Nguyen, Viet-Anh Nguyen. "Counterfactual plans under Distributional Ambiguity." *ICLR*, 2022.
+* **Hong-Ngoc Bui**, and Viet-Trung Tran. "A Novel Conditional Random Fields Aided Fuzzy Matching in Vietnamese Address Standardization." *SoICT*, 2019. [[.pdf]](/assets/pdf/ngocbh_soict_2019.pdf)
 
 ## Projects
 
@@ -47,23 +49,37 @@ His career aspiration is to become a research scientist in Machine Learning. How
 
 ## Thesis
 
-* A bachelors thesis at Hanoi University of Science and Technology. *A Deep Reinforcement Learning based Online Charging Scheme for Target Coverage and Connectivity in WRSNs.* [[.pdf]](/assets/pdf/ngocbh_thesis__en_.pdf) [[.slide]](/assets/pdf/ngocbh_thesis_slides.pdf) [[.code]](https://github.com/ngocbh/odmc-wrsn)
+* A bachelors thesis at Hanoi University of Science and Technology. *A Deep Reinforcement Learning-based Online Charging Scheme for Target Coverage and Connectivity in WRSNs.* [[.pdf]](/assets/pdf/ngocbh_thesis__en_.pdf) [[.slide]](/assets/pdf/ngocbh_thesis_slides.pdf) [[.code]](https://github.com/ngocbh/odmc-wrsn)
 
 ## Awards and honors
 
+* Best Thesis Presentation Award, *2021*.
 * Problem Winner in ASEAN-India Hackathon, *2021*.
-* The Third prize (Top 50) in ACM/ICPC Asia Ho Chi
+* The Third prize in ACM/ICPC Asia - Ho Chi
 Minh Regional, *2017*.
-* The Third prize in Vietnam National Olympiad in Informatics, *2016*.
+* The Third prize in Vietnam Olympiad in Informatics, *2016*.
 
 <h2 id='contact'>Contacts</h2>
 
 * Email: ngocbh.pt (at) gmail (dot) com
 * Github: [ngocbh](https://github.com/ngocbh)
 
-## Signature
+## Supervisors
 
-This is Consenkid.
+* [Dr. Viet-Anh Nguyen](https://vietanhnguyen.net/) *at VinAI Research*
+* [Assoc. Prof. Thuan Do Phan](https://scholar.google.com.vn/citations?user=7Bpp8U0AAAAJ&hl=en) *at HUST*
+* [Dr. Phi Le Nguyen](https://scholar.google.co.jp/citations?user=L_NKoQwAAAAJ&hl=en) *at HUST*
+* [Assoc. Prof. Huynh Thi Thanh Binh](https://scholar.google.com/citations?user=vJYe5lkAAAAJ&hl=en) *at HUST*
+* [Dr. Viet-Trung Tran](https://scholar.google.com/citations?user=wYWRXQ0AAAAJ&hl=en) *at HUST*
+
+## Collaborators
+
+* Duy Khuong Nguyen *at VinAI*
+* Tam Nguyen *at HUST*
+
+## Mascot
+
+This is Cosenkid (an unbeatable combination of **Co**nan, Hei**sen**berg, and Kaito **Kid**).
 
 <img src="{{ '/assets/images/cosenkid.jpg' | relative_url }}" width="200" height="200" alt="Paris" style='display: block;margin-left: auto;margin-right: auto;'/>
 
