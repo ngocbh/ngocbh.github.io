@@ -23,15 +23,14 @@ layout: default
     <li>{{new.date | date: "%b %-d, %Y" }}: {{new.content | markdownify | remove: '<p>' | remove: '</p>' }}</li>
 {% endfor %}
 </ul>
-
 ## Biography
 
 Ngoc Bui is currently a research resident under supervision of Dr. Viet-Anh Nguyen at VinAI Research. He is also pursuing a Master degree in Data Science and Artifical Intelligence at Hanoi University of Science and Technology.
 
-He received a BEng in computer science (under supervision of Assoc. Prof. Do Phan Thuan and Dr. Nguyen Phi Le) from Hanoi University of Science and Technology in 2021. Throughout the time at university, he also participated in research projects in Natural Language Processing (with Dr. Viet-Trung Tran in DSLAB) and Operation Research (with Assoc. Prof. Huynh Thi Thanh Binh in MSOLAB) as a collaborator.
+He received a BEng in computer science (under supervision of Assoc. Prof. Do Phan Thuan and Dr. Nguyen Phi Le) from Hanoi University of Science and Technology in 2021. During his time at university, he has a pleasure to join research projects as a collaborator in DSLAB with Dr. Viet-Trung Tran and MSOLAB with Assoc. Prof. Huynh Thi Thanh Binh.
 
 
-He is interested in tackling combinatorial/operation research problems, and promoting robustness and explainability in machine learning models using distributional robust optimization, reinforcement learning, and graph neural network. 
+He is interested in tackling combinatorial/operation research problems and promoting robustness and explainability in machine learning models using distributional robust optimization, reinforcement learning, and graph neural network. 
 
 
 ## Publications
@@ -49,7 +48,7 @@ He is interested in tackling combinatorial/operation research problems, and prom
 
 ## Thesis
 
-* A bachelors thesis at Hanoi University of Science and Technology. *A Deep Reinforcement Learning-based Online Charging Scheme for Target Coverage and Connectivity in WRSNs.* [[.pdf]](/assets/pdf/ngocbh_thesis__en_.pdf) [[.slide]](/assets/pdf/ngocbh_thesis_slides.pdf) [[.code]](https://github.com/ngocbh/odmc-wrsn)
+* A bachelors thesis at HUST. *A Deep Reinforcement Learning-based Online Charging Scheme for Target Coverage and Connectivity in WRSNs.* [[.pdf]](/assets/pdf/ngocbh_thesis__en_.pdf) [[.slide]](/assets/pdf/ngocbh_thesis_slides.pdf) [[.code]](https://github.com/ngocbh/odmc-wrsn)
 
 ## Awards and honors
 
@@ -69,8 +68,8 @@ Minh Regional, *2017*.
 * [Dr. Viet-Anh Nguyen](https://vietanhnguyen.net/)
 * [Assoc. Prof. Thuan Do Phan](https://scholar.google.com.vn/citations?user=7Bpp8U0AAAAJ&hl=en) 
 * [Dr. Phi Le Nguyen](https://scholar.google.co.jp/citations?user=L_NKoQwAAAAJ&hl=en)
-* [Assoc. Prof. Huynh Thi Thanh Binh](https://scholar.google.com/citations?user=vJYe5lkAAAAJ&hl=en)
 * [Dr. Viet-Trung Tran](https://scholar.google.com/citations?user=wYWRXQ0AAAAJ&hl=en)
+* [Assoc. Prof. Huynh Thi Thanh Binh](https://scholar.google.com/citations?user=vJYe5lkAAAAJ&hl=en)
 
 ## Collaborators
 
