@@ -27,7 +27,7 @@ layout: default
 
 Ngoc Bui is currently a research resident under supervision of Dr. Viet-Anh Nguyen at VinAI Research. He is also pursuing a Master degree in Data Science and Artifical Intelligence at Hanoi University of Science and Technology.
 
-He received a BEng in computer science (under supervision of Assoc. Prof. Do Phan Thuan and Dr. Nguyen Phi Le) from Hanoi University of Science and Technology in 2021. During his time at university, he has a pleasure to join research projects as a collaborator in DSLAB with Dr. Viet-Trung Tran and MSOLAB with Assoc. Prof. Huynh Thi Thanh Binh.
+He received a BEng in computer science (under supervision of Assoc. Prof. Do Phan Thuan and Dr. Nguyen Phi Le) from Hanoi University of Science and Technology in 2021. During his time at university, he participated in research projects as a collaborator in DSLAB with Dr. Viet-Trung Tran and MSOLAB with Assoc. Prof. Huynh Thi Thanh Binh.
 
 
 He is interested in tackling combinatorial/operation research problems and promoting robustness and explainability in machine learning models using distributional robust optimization, reinforcement learning, and graph neural network. 
