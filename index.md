@@ -25,9 +25,9 @@ layout: default
 </ul>
 ## Biography
 
-Ngoc Bui is currently a research resident under the supervision of Dr. Viet-Anh Nguyen at VinAI Research. He is also pursuing a Master's degree in Data Science and Artificial Intelligence at Hanoi University of Science and Technology.
+Ngoc Bui is currently a research resident under the supervision of Dr. Viet Anh Nguyen at VinAI Research. He is also pursuing a Master's degree in Data Science and Artificial Intelligence at Hanoi University of Science and Technology.
 
-He received a BEng in computer science (under the supervision of Assoc. Prof. Do Phan Thuan and Dr. Nguyen Phi Le) from Hanoi University of Science and Technology in 2021. During his time at university, he participated in research projects as a collaborator in DSLAB with Dr. Viet-Trung Tran and in MSOLAB with Assoc. Prof. Huynh Thi Thanh Binh.
+He received a BEng in computer science (under the supervision of Assoc. Prof. Do Phan Thuan and Dr. Nguyen Phi Le) from Hanoi University of Science and Technology in 2021.
 
 He is interested in tackling combinatorial/operation research problems and promoting robustness and explainability in machine learning models.
 
@@ -36,8 +36,9 @@ He is interested in tackling combinatorial/operation research problems and promo
 <!-- #### Conferences -->
 
 * Tuan-Duy H. Nguyen, **Ngoc Bui**, Duy Nguyen, Man-Chung Yue, Viet Anh Nguyen. "Robust Bayesian Recourse." *UAI*, 2022. [[.axiv]](https://arxiv.org/pdf/2206.10833.pdf)
-* **Ngoc Bui**, Duy Nguyen, Viet-Anh Nguyen. "Counterfactual plans under Distributional Ambiguity." *ICLR*, 2022. [[.axiv]](https://arxiv.org/abs/2201.12487)
-* **Hong-Ngoc Bui**, and Viet-Trung Tran. "A Novel Conditional Random Fields Aided Fuzzy Matching in Vietnamese Address Standardization." *SoICT*, 2019. [[.pdf]](/assets/pdf/ngocbh_soict_2019.pdf)
+* **Ngoc Bui**, Duy Nguyen, Viet Anh Nguyen. "Counterfactual plans under Distributional Ambiguity." *ICLR*, 2022. [[.axiv]](https://arxiv.org/abs/2201.12487)
+* **Ngoc Bui**, Phi Le Nguyen, Viet Anh Nguyen, Phan Thuan Do. "A Deep Reinforcement Learning-based Adaptive Charging Policy for Wireless Rechargeable Sensor Networks", to be appeared at *IEEE MASS*, 2022. [[.axiv]](https://arxiv.org/abs/2208.07824)
+* **Ngoc Bui**, and Viet-Trung Tran. "A Novel Conditional Random Fields Aided Fuzzy Matching in Vietnamese Address Standardization." *SoICT*, 2019. [[.pdf]](/assets/pdf/ngocbh_soict_2019.pdf)
 
 ## Open-source Projects
 
@@ -47,7 +48,7 @@ He is interested in tackling combinatorial/operation research problems and promo
 
 ## Thesis
 
-* A bachelors thesis at HUST. *A Deep Reinforcement Learning-based Online Charging Scheme for Target Coverage and Connectivity in WRSNs.* [[.pdf]](/assets/pdf/ngocbh_thesis__en_.pdf) [[.slide]](/assets/pdf/ngocbh_thesis_slides.pdf) [[.code]](https://github.com/ngocbh/odmc-wrsn)
+* A bachelors thesis at HUST. *A Deep Reinforcement Learning-based Online Charging Scheme for Target Coverage and Connectivity in WRSNs.* [[.pdf]](/assets/pdf/ngocbh_thesis__en_.pdf) [[.slide]](/assets/pdf/ngocbh_thesis_slides.pdf)
 
 ## Awards and honors
 
@@ -67,13 +68,14 @@ Minh Regional, *2017*.
 * [Dr. Viet-Anh Nguyen](https://vietanhnguyen.net/)
 * [Assoc. Prof. Thuan Do Phan](https://scholar.google.com.vn/citations?user=7Bpp8U0AAAAJ&hl=en) 
 * [Dr. Phi Le Nguyen](https://scholar.google.co.jp/citations?user=L_NKoQwAAAAJ&hl=en)
-* [Dr. Viet-Trung Tran](https://scholar.google.com/citations?user=wYWRXQ0AAAAJ&hl=en)
+
+<!-- * [Dr. Viet-Trung Tran](https://scholar.google.com/citations?user=wYWRXQ0AAAAJ&hl=en)
 * [Assoc. Prof. Huynh Thi Thanh Binh](https://scholar.google.com/citations?user=vJYe5lkAAAAJ&hl=en)
+ -->
+<!-- ## Collaborators -->
 
-## Collaborators
-
-* Duy Nguyen *at VinAI*
-* Tam Nguyen *at HUST*
+<!-- * Duy Nguyen *at VinAI* -->
+<!-- * Tam Nguyen *at HUST* -->
 
 ## Mascot
 
