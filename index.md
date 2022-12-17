@@ -83,5 +83,5 @@ His main research interests lie in the intersection of Machine Learning (ML) and
 <!-- * Duy Nguyen *at VinAI* -->
 <!-- * Tam Nguyen *at HUST* -->
 
-<img src="{{ '/assets/images/cosenkid.jpg' | relative_url }}" width="100" height="100" alt="Paris" style='display: block;margin-left: auto;margin-right: auto;'/>
+<img src="{{ '/assets/images/cosenkid.jpg' | relative_url }}" width="20" height="20" alt="Paris" style='display: block;margin-left: auto;margin-right: auto;'/>
 
