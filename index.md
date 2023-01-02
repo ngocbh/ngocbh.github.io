@@ -3,7 +3,7 @@ title: Ngoc Bui's homepage
 layout: default
 ---
 
-## News
+<!--## News
 {% assign new_list = site.data.news | sort:"date" %}
 <div id="content"></div>
 <p
@@ -22,7 +22,7 @@ layout: default
 {% for new in new_list reversed %}
     <li>{{new.date | date: "%b %-d, %Y" }}: {{new.content | markdownify | remove: '<p>' | remove: '</p>' }}</li>
 {% endfor %}
-</ul>
+</ul>-->
 ## Biography
 
 Ngoc Bui is currently a research resident under the supervision of Dr. Viet Anh Nguyen at VinAI Research. He is also pursuing a Master's degree in Data Science at Hanoi University of Science and Technology. He received a B.S. in computer science (under the supervision of Assoc. Prof. Do Phan Thuan and Dr. Nguyen Phi Le) from Hanoi University of Science and Technology in 2021.
