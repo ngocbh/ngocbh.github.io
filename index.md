@@ -27,7 +27,7 @@ layout: default
 
 Ngoc Bui is currently a research resident under the supervision of Dr. Viet Anh Nguyen at VinAI Research. He is also pursuing a Master's degree in Data Science at Hanoi University of Science and Technology. He received a B.S. in computer science (under the supervision of Assoc. Prof. Do Phan Thuan and Dr. Nguyen Phi Le) from Hanoi University of Science and Technology in 2021.
 
-His research interests lie at the intersection of Machine Learning (ML) and Optimization. Particularly, he is interested in developing systematic approaches to study facets, including robustness and interpretability, of ML models in real-world environments where humans and high measurement uncertainties exist in the loop. He enjoys learning combinatorial structures and leveraging advanced ML techniques to tackle combinatorial/operational problems.
+His research interests lie at the intersection of Machine Learning (ML) and Optimization. Particularly, he is interested in developing systematic approaches to study facets of ML models, including robustness and interpretability, in real-world environments where humans and high measurement uncertainties exist in the loop. He also enjoys learning combinatorial structures and leveraging advanced ML techniques to tackle combinatorial/operational problems.
 
 ## Publications
 
