@@ -33,11 +33,12 @@ His research interests lie at the intersection of Machine Learning (ML) and Opti
 
 #### Conferences
 
-* **Ngoc Bui**, Duy Nguyen, Viet Anh Nguyen. "Counterfactual plans under Distributional Ambiguity", *ICLR*, 2022. [[.axiv]](https://arxiv.org/abs/2201.12487)
-* Tuan-Duy H. Nguyen, **Ngoc Bui**, Duy Nguyen, Man-Chung Yue, Viet Anh Nguyen. "Robust Bayesian Recourse", *UAI*, 2022. [[.axiv]](https://arxiv.org/pdf/2206.10833.pdf)
+* Duy Nguyen, **Ngoc Bui**, and Viet Anh Nguyen. "Feasible Recourse Plan via Diverse Interpolation", *ICLR*, 2023.
+* Duy Nguyen, **Ngoc Bui**, and Viet Anh Nguyen. "Distributionally Robust Recourse Action", *AISTATS*, 2023.
 * **Ngoc Bui**, Phi Le Nguyen, Viet Anh Nguyen, Phan Thuan Do. "A Deep Reinforcement Learning-based Adaptive Charging Policy for Wireless Rechargeable Sensor Networks", IEEE *MASS*, 2022. [[.axiv]](https://arxiv.org/abs/2208.07824)
-* Duy Nguyen, **Ngoc Bui**, and Viet Anh Nguyen. "Feasible Recourse Plan via Diverse Interpolation", to appeared at ICLR'23.
-* Duy Nguyen, **Ngoc Bui**, and Viet Anh Nguyen. "Distributionally Robust Recourse Action", to appeared at AISTATS'23.
+* Tuan-Duy H. Nguyen, **Ngoc Bui**, Duy Nguyen, Man-Chung Yue, Viet Anh Nguyen. "Robust Bayesian Recourse", *UAI*, 2022. [[.axiv]](https://arxiv.org/pdf/2206.10833.pdf)
+* **Ngoc Bui**, Duy Nguyen, Viet Anh Nguyen. "Counterfactual plans under Distributional Ambiguity", *ICLR*, 2022. [[.axiv]](https://arxiv.org/abs/2201.12487)
+
 <!-- * **Ngoc Bui**, and Viet-Trung Tran. "A Novel Conditional Random Fields Aided Fuzzy Matching in Vietnamese Address Standardization." *SoICT*, 2019. [[.pdf]](/assets/pdf/ngocbh_soict_2019.pdf) -->
 
 
