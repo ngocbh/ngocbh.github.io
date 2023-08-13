@@ -23,6 +23,7 @@ layout: default
     <li>{{new.date | date: "%b %-d, %Y" }}: {{new.content | markdownify | remove: '<p>' | remove: '</p>' }}</li>
 {% endfor %}
 </ul>
+
 ## Biography
 
 Ngoc Bui is currently a research resident under the supervision of Dr. Viet Anh Nguyen at VinAI Research. He is also pursuing a Master's degree in Data Science at Hanoi University of Science and Technology. He received a B.S. in computer science (under the supervision of Assoc. Prof. Do Phan Thuan and Dr. Nguyen Phi Le) from Hanoi University of Science and Technology in 2021.
@@ -33,8 +34,8 @@ His research interests lie at the intersection of Machine Learning (ML) and Opti
 
 #### Conferences
 
-* Duy Nguyen, **Ngoc Bui**, and Viet Anh Nguyen. "Feasible Recourse Plan via Diverse Interpolation", *ICLR*, 2023.
-* Duy Nguyen, **Ngoc Bui**, and Viet Anh Nguyen. "Distributionally Robust Recourse Action", *AISTATS*, 2023.
+* Duy Nguyen, **Ngoc Bui**, and Viet Anh Nguyen. "Feasible Recourse Plan via Diverse Interpolation", *ICLR*, 2023. [[.arxiv]](https://arxiv.org/abs/2302.11213)
+* Duy Nguyen, **Ngoc Bui**, and Viet Anh Nguyen. "Distributionally Robust Recourse Action", *AISTATS*, 2023. [[.arvix]](https://arxiv.org/abs/2302.11211)
 * **Ngoc Bui**, Phi Le Nguyen, Viet Anh Nguyen, Phan Thuan Do. "A Deep Reinforcement Learning-based Adaptive Charging Policy for Wireless Rechargeable Sensor Networks", IEEE *MASS*, 2022. [[.axiv]](https://arxiv.org/abs/2208.07824)
 * Tuan-Duy H. Nguyen, **Ngoc Bui**, Duy Nguyen, Man-Chung Yue, Viet Anh Nguyen. "Robust Bayesian Recourse", *UAI*, 2022. [[.axiv]](https://arxiv.org/pdf/2206.10833.pdf)
 * **Ngoc Bui**, Duy Nguyen, Viet Anh Nguyen. "Counterfactual plans under Distributional Ambiguity", *ICLR*, 2022. [[.axiv]](https://arxiv.org/abs/2201.12487)
@@ -55,7 +56,7 @@ His research interests lie at the intersection of Machine Learning (ML) and Opti
 
 ## Thesis
 
-* A bachelors thesis at HUST. *A Deep Reinforcement Learning-based Online Charging Scheme for Target Coverage and Connectivity in WRSNs.* [[.pdf]](/assets/pdf/ngocbh_thesis__en_.pdf) [[.slide]](/assets/pdf/ngocbh_thesis_slides.pdf)
+* A master's thesis: *Evolutionary and Deep Reinforcement Learning Algorithms for Optimizing the Lifetime of Wireless Sensor Networks* [[.pdf]](/assets/pdf/ngocbh_s_master_thesis.pdf) [[.slide]](/assets/pdf/ngocbh_s_master_thesis.pdf)
 
 ## Awards and honors
 
