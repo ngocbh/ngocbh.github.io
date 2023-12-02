@@ -35,20 +35,20 @@ His research interests lie at the intersection of *Machine Learning* and *Optimi
 #### Preprints
 
 * **Ngoc Bui**, Hieu Trung Nguyen, Viet Anh Nguyen, Rex Ying. "Structure-aware Graph Explainer via Myerson-Taylor Interaction Index", under review.
-* **Ngoc Bui**, Duy Nguyen, Kim-Cuc Nguyen, Man-Chung Yue, and Viet Anh Nguyen. "Coverage-Validity-Aware Algorithmic Recourse", under review. [[axiv]](https://arxiv.org/abs/2311.11349)
+* **Ngoc Bui**, Duy Nguyen, Kim-Cuc Nguyen, Man-Chung Yue, and Viet Anh Nguyen. "Coverage-Validity-Aware Algorithmic Recourse", under review. [[paper]](https://arxiv.org/abs/2311.11349)
 
 #### Conferences
 
-* Duy Nguyen, **Ngoc Bui**, and Viet Anh Nguyen. "Feasible Recourse Plan via Diverse Interpolation", *ICLR*, 2023. [[arxiv]](https://arxiv.org/abs/2302.11213) 
-* Duy Nguyen, **Ngoc Bui**, and Viet Anh Nguyen. "Distributionally Robust Recourse Action", *AISTATS*, 2023. [[arvix]](https://arxiv.org/abs/2302.11211)
-* **Ngoc Bui**, Phi Le Nguyen, Viet Anh Nguyen, Phan Thuan Do. "A Deep Reinforcement Learning-based Adaptive Charging Policy for Wireless Rechargeable Sensor Networks", IEEE *MASS*, 2022. [[axiv]](https://arxiv.org/abs/2208.07824) [[code]](https://github.com/ngocbh/DRL-TCC)
-* Tuan-Duy H. Nguyen, **Ngoc Bui**, Duy Nguyen, Man-Chung Yue, Viet Anh Nguyen. "Robust Bayesian Recourse", *UAI*, 2022. [[axiv]](https://arxiv.org/pdf/2206.10833.pdf)
-* **Ngoc Bui**, Duy Nguyen, Viet Anh Nguyen. "Counterfactual plans under Distributional Ambiguity", *ICLR*, 2022. [[axiv]](https://arxiv.org/abs/2201.12487) [[code]](https://github.com/ngocbh/COPA)
-* **Ngoc Bui**, and Viet-Trung Tran. "A Novel Conditional Random Fields Aided Fuzzy Matching in Vietnamese Address Standardization." *SoICT*, 2019. [[pdf]](/assets/pdf/soict19.pdf) [[code]](https://github.com/ngocbh/stavia)
+* Duy Nguyen, **Ngoc Bui**, and Viet Anh Nguyen. "Feasible Recourse Plan via Diverse Interpolation", *ICLR*, 2023. [[paper]](https://arxiv.org/abs/2302.11213) 
+* Duy Nguyen, **Ngoc Bui**, and Viet Anh Nguyen. "Distributionally Robust Recourse Action", *AISTATS*, 2023. [[paper]](https://arxiv.org/abs/2302.11211)
+* **Ngoc Bui**, Phi Le Nguyen, Viet Anh Nguyen, Phan Thuan Do. "A Deep Reinforcement Learning-based Adaptive Charging Policy for Wireless Rechargeable Sensor Networks", IEEE *MASS*, 2022. [[paper]](https://arxiv.org/abs/2208.07824) [[code]](https://github.com/ngocbh/DRL-TCC)
+* Tuan-Duy H. Nguyen, **Ngoc Bui**, Duy Nguyen, Man-Chung Yue, Viet Anh Nguyen. "Robust Bayesian Recourse", *UAI*, 2022. [[paper]](https://arxiv.org/pdf/2206.10833.pdf)
+* **Ngoc Bui**, Duy Nguyen, Viet Anh Nguyen. "Counterfactual plans under Distributional Ambiguity", *ICLR*, 2022. [[paper]](https://arxiv.org/abs/2201.12487) [[code]](https://github.com/ngocbh/COPA)
+* **Ngoc Bui**, and Viet-Trung Tran. "A Novel Conditional Random Fields Aided Fuzzy Matching in Vietnamese Address Standardization." *SoICT*, 2019. [[paper]](/assets/pdf/soict19.pdf) [[code]](https://github.com/ngocbh/stavia)
 
 #### Journal
 
-* **Ngoc Bui**, Tam Nguyen, Binh Huynh Thi Thanh, and Trong Vinh Le. "A phenotype-based multiobjective evolutionary algorithm for maximizing lifetime in wireless sensor networks with bounded hop", *Soft Computing*, 2023. [[pdf]](/assets/pdf/softcomp23.pdf) [[code]](https://github.com/ngocbh/nebp_wsn)
+* **Ngoc Bui**, Tam Nguyen, Binh Huynh Thi Thanh, and Trong Vinh Le. "A phenotype-based multiobjective evolutionary algorithm for maximizing lifetime in wireless sensor networks with bounded hop", *Soft Computing*, 2023. [[paper]](/assets/pdf/softcomp23.pdf) [[code]](https://github.com/ngocbh/nebp_wsn)
 
 <!-- ## Projects -->
 
@@ -58,7 +58,7 @@ His research interests lie at the intersection of *Machine Learning* and *Optimi
 
 ## Thesis
 
-*  Master's thesis. "Evolutionary and Deep Reinforcement Learning Algorithms for Optimizing the Lifetime of Wireless Sensor Networks". [[pdf]](/assets/pdf/ms_thesis.pdf) [[slide]](/assets/pdf/ms_slides.pdf)
+*  Master's thesis. "Evolutionary and Deep Reinforcement Learning Algorithms for Optimizing the Lifetime of Wireless Sensor Networks". [[paper]](/assets/pdf/ms_thesis.pdf) [[slides]](/assets/pdf/ms_slides.pdf)
 
 ## Awards and honors
 
