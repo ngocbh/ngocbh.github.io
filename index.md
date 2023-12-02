@@ -20,46 +20,49 @@ layout: default
     </p>
 <ul id='newList' style="display: none;">
 {% for new in new_list reversed %}
-    <li>{{new.date | date: "%b %-d, %Y" }}: {{new.content | markdownify | remove: '<p>' | remove: '</p>' }}</li>
+    <li>{{new.date | date: "%b %Y" }}: {{new.content | markdownify | remove: '<p>' | remove: '</p>' }}</li>
 {% endfor %}
 </ul>
 
 ## Biography
 
-Ngoc Bui is currently a research resident under the supervision of Dr. Viet Anh Nguyen at VinAI Research. He is also pursuing a Master's degree in Data Science at Hanoi University of Science and Technology. He received a B.S. in computer science (under the supervision of Assoc. Prof. Do Phan Thuan and Dr. Nguyen Phi Le) from Hanoi University of Science and Technology in 2021.
+Ngoc Bui is currently a first-year CS Ph.D. student at Yale University, where I am very fortunate to be advised by [Prof. Rex Ying](https://www.cs.yale.edu/homes/ying-rex/). Before joining Yale, he was a research resident at VinAI Research, where he had two wonderful years working under the supervision of [Prof. Viet Anh Nguyen](https://vietanhnguyen.net/). Prior to that, he received a bachelor degree in Computer Science and master degree in Data Science from Hanoi University of Science and Technology.
 
-His research interests lie at the intersection of Machine Learning (ML) and Optimization. Particularly, he is interested in developing systematic approaches to study facets of ML models, including robustness and interpretability, in real-world environments where humans and high measurement uncertainties exist in the loop. He also enjoys learning combinatorial structures and leveraging advanced ML techniques to tackle combinatorial/operational problems.
+His research interests lie at the intersection of *Machine Learning* and *Optimization* with a focus on responsible use of machine learning in real-world systems where humans and high measurement uncertainties exist in the loop. Recently, his research focuses on understanding several facets, e.g., efficiency, robustness, and interpretability, of ML models, particularly, for applications with graph-structured data.
 
 ## Publications
 
-#### Conferences
-
-* Duy Nguyen, **Ngoc Bui**, and Viet Anh Nguyen. "Feasible Recourse Plan via Diverse Interpolation", *ICLR*, 2023. [[.arxiv]](https://arxiv.org/abs/2302.11213)
-* Duy Nguyen, **Ngoc Bui**, and Viet Anh Nguyen. "Distributionally Robust Recourse Action", *AISTATS*, 2023. [[.arvix]](https://arxiv.org/abs/2302.11211)
-* **Ngoc Bui**, Phi Le Nguyen, Viet Anh Nguyen, Phan Thuan Do. "A Deep Reinforcement Learning-based Adaptive Charging Policy for Wireless Rechargeable Sensor Networks", IEEE *MASS*, 2022. [[.axiv]](https://arxiv.org/abs/2208.07824)
-* Tuan-Duy H. Nguyen, **Ngoc Bui**, Duy Nguyen, Man-Chung Yue, Viet Anh Nguyen. "Robust Bayesian Recourse", *UAI*, 2022. [[.axiv]](https://arxiv.org/pdf/2206.10833.pdf)
-* **Ngoc Bui**, Duy Nguyen, Viet Anh Nguyen. "Counterfactual plans under Distributional Ambiguity", *ICLR*, 2022. [[.axiv]](https://arxiv.org/abs/2201.12487)
-
-<!-- * **Ngoc Bui**, and Viet-Trung Tran. "A Novel Conditional Random Fields Aided Fuzzy Matching in Vietnamese Address Standardization." *SoICT*, 2019. [[.pdf]](/assets/pdf/ngocbh_soict_2019.pdf) -->
-
-
 #### Preprints
 
-* **Ngoc Bui**, Duy Nguyen, Kim-Cuc Nguyen, Man-Chung Yue, and Viet Anh Nguyen. "Covariance-Robust Minimax Probability Machines for Algorithmic Recourse", under review.
+* **Ngoc Bui**, Hieu Trung Nguyen, Viet Anh Nguyen, Rex Ying. "Structure-aware Graph Explainer via Myerson-Taylor Interaction Index", under review.
+* **Ngoc Bui**, Duy Nguyen, Kim-Cuc Nguyen, Man-Chung Yue, and Viet Anh Nguyen. "Coverage-Validity-Aware Algorithmic Recourse", under review. [[axiv]](https://arxiv.org/abs/2311.11349)
 
+#### Conferences
 
-## Open-source Projects
+* Duy Nguyen, **Ngoc Bui**, and Viet Anh Nguyen. "Feasible Recourse Plan via Diverse Interpolation", *ICLR*, 2023. [[arxiv]](https://arxiv.org/abs/2302.11213) 
+* Duy Nguyen, **Ngoc Bui**, and Viet Anh Nguyen. "Distributionally Robust Recourse Action", *AISTATS*, 2023. [[arvix]](https://arxiv.org/abs/2302.11211)
+* **Ngoc Bui**, Phi Le Nguyen, Viet Anh Nguyen, Phan Thuan Do. "A Deep Reinforcement Learning-based Adaptive Charging Policy for Wireless Rechargeable Sensor Networks", IEEE *MASS*, 2022. [[axiv]](https://arxiv.org/abs/2208.07824) [[code]](https://github.com/ngocbh/DRL-TCC)
+* Tuan-Duy H. Nguyen, **Ngoc Bui**, Duy Nguyen, Man-Chung Yue, Viet Anh Nguyen. "Robust Bayesian Recourse", *UAI*, 2022. [[axiv]](https://arxiv.org/pdf/2206.10833.pdf)
+* **Ngoc Bui**, Duy Nguyen, Viet Anh Nguyen. "Counterfactual plans under Distributional Ambiguity", *ICLR*, 2022. [[axiv]](https://arxiv.org/abs/2201.12487) [[code]](https://github.com/ngocbh/COPA)
+* **Ngoc Bui**, and Viet-Trung Tran. "A Novel Conditional Random Fields Aided Fuzzy Matching in Vietnamese Address Standardization." *SoICT*, 2019. [[pdf]](/assets/pdf/soict19.pdf) [[code]](https://github.com/ngocbh/stavia)
 
-* GeneticPython: A simple and friendly Python framework for genetic-based algorithms. [[.code]](https://github.com/ngocbh/geneticpython)
-* SCOSS: A source code similarity system for competitive programming. [[.web]](http://scoss.soict.ai/) [[.code]](https://github.com/BK-SCOSS/scoss)
-* Comnato: A command line interfaces (CLI) to manage Codeforces’ groups. [[.code]](https://github.com/ngocbh/codeforces-management-tools)
+#### Journal
+
+* **Ngoc Bui**, Tam Nguyen, Binh Huynh Thi Thanh, and Trong Vinh Le. "A phenotype-based multiobjective evolutionary algorithm for maximizing lifetime in wireless sensor networks with bounded hop", *Soft Computing*, 2023. [[pdf]](/assets/pdf/softcomp23.pdf) [[code]](https://github.com/ngocbh/nebp_wsn)
+
+<!-- ## Projects -->
+
+<!-- * GeneticPython: A simple and friendly Python framework for genetic-based algorithms. [[pypi]](https://pypi.org/project/geneticpython/) -->
+<!-- * SCOSS: A source code similarity system for competitive programming. [[pypi]](https://github.com/BK-SCOSS/scoss) -->
+<!-- * Comnato: A command line interfaces (CLI) to manage Codeforces’ groups. [[pypi]](https://pypi.org/project/conmato/) -->
 
 ## Thesis
 
-* A master's thesis: *Evolutionary and Deep Reinforcement Learning Algorithms for Optimizing the Lifetime of Wireless Sensor Networks* [[.pdf]](/assets/pdf/ngocbh_s_master_thesis.pdf) [[.slide]](/assets/pdf/ngocbh_s_master_thesis.pdf)
+*  Master's thesis. "Evolutionary and Deep Reinforcement Learning Algorithms for Optimizing the Lifetime of Wireless Sensor Networks". [[pdf]](/assets/pdf/ms_thesis.pdf) [[slide]](/assets/pdf/ms_slides.pdf)
 
 ## Awards and honors
 
+* Honorable Mention in INFORMS Undergraduate Operations Research Prize, *2022*.
 * Best Thesis Presentation Award, *2021*.
 * Problem Winner in ASEAN-India Hackathon, *2021*.
 * The Third Prize in Vietnam Olympiad in Informatics, *2016*.
@@ -71,15 +74,15 @@ His research interests lie at the intersection of Machine Learning (ML) and Opti
 * Email: ngocbh.pt (at) gmail (dot) com
 * Github: [ngocbh](https://github.com/ngocbh)
 
-## Supervisors
+## References 
+* [Prof. Rex Ying](https://www.cs.yale.edu/homes/ying-rex/)
+* [Prof. Viet-Anh Nguyen](https://vietanhnguyen.net/)
+<!-- * [Assoc. Prof. Thuan Do Phan](https://scholar.google.com.vn/citations?user=7Bpp8U0AAAAJ&hl=en)  -->
+<!-- * [Dr. Phi Le Nguyen](https://scholar.google.co.jp/citations?user=L_NKoQwAAAAJ&hl=en) -->
 
-* [Dr. Viet-Anh Nguyen](https://vietanhnguyen.net/)
-* [Assoc. Prof. Thuan Do Phan](https://scholar.google.com.vn/citations?user=7Bpp8U0AAAAJ&hl=en) 
-* [Dr. Phi Le Nguyen](https://scholar.google.co.jp/citations?user=L_NKoQwAAAAJ&hl=en)
+<!-- * [Assoc. Prof. Huynh Thi Thanh Binh](https://scholar.google.com/citations?user=vJYe5lkAAAAJ&hl=en) -->
+<!-- * [Dr. Viet-Trung Tran](https://scholar.google.com/citations?user=wYWRXQ0AAAAJ&hl=en) -->
 
-<!-- * [Dr. Viet-Trung Tran](https://scholar.google.com/citations?user=wYWRXQ0AAAAJ&hl=en)
-* [Assoc. Prof. Huynh Thi Thanh Binh](https://scholar.google.com/citations?user=vJYe5lkAAAAJ&hl=en)
- -->
 <!-- ## Collaborators -->
 
 <!-- * Duy Nguyen *at VinAI* -->

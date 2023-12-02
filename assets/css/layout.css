@@ -59,8 +59,9 @@ code {
 h1, h2, h3 {
     font-family: Arial;
     line-height: 1.4em;
+    font-size: 1.3em;
     text-align: left;
-    color: #00a;
+    color: black;
 }
 
 

@@ -1,8 +1,3 @@
 jobs:
-  - position: "student"
-    institute: "Hanoi University of Science and Techonology"
-
-  - position: "resident"
-    institute: "VinAI Research"
-
-  
+  - position: "PhD student"
+    institute: "Yale University"
