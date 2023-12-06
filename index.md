@@ -26,7 +26,7 @@ layout: default
 
 ## Biography
 
-Ngoc Bui is currently a first-year CS Ph.D. student at Yale University, where I am very fortunate to be advised by [Prof. Rex Ying](https://www.cs.yale.edu/homes/ying-rex/). Before joining Yale, he was a research resident at VinAI Research, where he had two wonderful years working under the supervision of [Prof. Viet Anh Nguyen](https://vietanhnguyen.net/). Prior to that, he received a bachelor degree in Computer Science and master degree in Data Science from Hanoi University of Science and Technology.
+Ngoc Bui is currently a first-year CS Ph.D. student at Yale University, where he is very fortunate to be advised by [Prof. Rex Ying](https://www.cs.yale.edu/homes/ying-rex/). Before joining Yale, he was a research resident at VinAI Research, where he had two wonderful years working under the supervision of [Prof. Viet Anh Nguyen](https://vietanhnguyen.net/). Prior to that, he received a bachelor degree in Computer Science and master degree in Data Science from Hanoi University of Science and Technology.
 
 His research interests lie at the intersection of *Machine Learning* and *Optimization* with a focus on responsible use of machine learning in real-world systems where humans and high measurement uncertainties exist in the loop. Recently, his research focuses on understanding several facets, e.g., efficiency, robustness, and interpretability, of ML models, particularly, for applications with graph-structured data.
 
