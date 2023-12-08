@@ -35,7 +35,7 @@ His research interests lie at the intersection of *Machine Learning* and *Optimi
 #### Preprints
 
 * **Ngoc Bui**, Hieu Trung Nguyen, Viet Anh Nguyen, Rex Ying. "Structure-aware Graph Explainer via Myerson-Taylor Interaction Index", under review.
-* **Ngoc Bui**, Duy Nguyen, Kim-Cuc Nguyen, Man-Chung Yue, and Viet Anh Nguyen. "Coverage-Validity-Aware Algorithmic Recourse", under review. [[paper]](https://arxiv.org/abs/2311.11349)
+* **Ngoc Bui**, Duy Nguyen, Man-Chung Yue, and Viet Anh Nguyen. "Coverage-Validity-Aware Algorithmic Recourse", under review. [[paper]](https://arxiv.org/abs/2311.11349)
 
 #### Conferences
 
