@@ -28,7 +28,7 @@ layout: default
 
 Ngoc Bui is currently a first-year CS Ph.D. student at Yale University, where he is very fortunate to be advised by [Prof. Rex Ying](https://www.cs.yale.edu/homes/ying-rex/). Before joining Yale, he was a research resident at VinAI Research, where he had two wonderful years working under the supervision of [Prof. Viet Anh Nguyen](https://vietanhnguyen.net/). Prior to that, he received a bachelor degree in Computer Science and master degree in Data Science from Hanoi University of Science and Technology.
 
-My research interests are machine learning and deep learning with a focus on their responsible use in real-world systems where humans and high measurement uncertainties exist in the loop. Recently, my research has focused on multimodal large language models and graph representation learning.
+His research interests are machine learning and deep learning with a focus on their responsible use in real-world systems where humans and high measurement uncertainties exist in the loop. Recently, He has been focusing on multimodal large language models and graph representation learning.
 <!-- His research interests lie at the intersection of *Machine Learning* and *Optimization* with a focus on responsible use of machine learning in real-world systems where humans and high measurement uncertainties exist in the loop. Recently, my research has focused on multimodal large language models and graph representation learning. -->
 
 ## Publications
