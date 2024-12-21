@@ -26,30 +26,23 @@ layout: default
 
 ## Biography
 
-Ngoc Bui is currently a first-year CS Ph.D. student at Yale University, where he is very fortunate to be advised by [Prof. Rex Ying](https://www.cs.yale.edu/homes/ying-rex/). Before joining Yale, he was a research resident at VinAI Research, where he had two wonderful years working under the supervision of [Prof. Viet Anh Nguyen](https://vietanhnguyen.net/). Prior to that, he received a bachelor degree in Computer Science and master degree in Data Science from Hanoi University of Science and Technology.
+I am currently a second-year Ph.D. student in Computer Science at Yale University, advised by Prof. Rex Ying. Prior to Yale, I spent two wonderful years as a research resident at VinAI Research under the supervision of Prof. Viet Anh Nguyen. Before that, I earned a bachelor’s degree in Computer Science and a master’s degree in Data Science from Hanoi University of Science and Technology.
 
-His research interests are machine learning and deep learning with a focus on their responsible use in real-world systems where humans and high measurement uncertainties exist in the loop. Recently, He has been focusing on multimodal large language models and graph representation learning.
-<!-- His research interests lie at the intersection of *Machine Learning* and *Optimization* with a focus on responsible use of machine learning in real-world systems where humans and high measurement uncertainties exist in the loop. Recently, my research has focused on multimodal large language models and graph representation learning. -->
+My research centers on large language models (LLMs) and their applications, particularly in personalized assistants and synthetic data generation through simulations. I am interested in developing effective memory paradigms that enable LLMs to store and continually update their knowledge—crucial for creating personalized and multi-agentic systems. These advancements expand the scope of LLM applications across diverse domains.
 
-## Publications
+## Selected Publications
 
-#### Preprints
-
-* **Ngoc Bui**, Hieu Trung Nguyen, Viet Anh Nguyen, Rex Ying. "Explaining Graph Neural Networks via Structure-aware Interaction Index", under review.
-* **Ngoc Bui**, Duy Nguyen, Man-Chung Yue, and Viet Anh Nguyen. "Coverage-Validity-Aware Algorithmic Recourse", under review. [[paper]](https://arxiv.org/abs/2311.11349)
-
-#### Conferences
-
-* Duy Nguyen, **Ngoc Bui**, and Viet Anh Nguyen. "Feasible Recourse Plan via Diverse Interpolation", *ICLR*, 2023. [[paper]](https://arxiv.org/abs/2302.11213) 
-* Duy Nguyen, **Ngoc Bui**, and Viet Anh Nguyen. "Distributionally Robust Recourse Action", *AISTATS*, 2023. [[paper]](https://arxiv.org/abs/2302.11211)
-* **Ngoc Bui**, Phi Le Nguyen, Viet Anh Nguyen, Phan Thuan Do. "A Deep Reinforcement Learning-based Adaptive Charging Policy for Wireless Rechargeable Sensor Networks", IEEE *MASS*, 2022. [[paper]](https://arxiv.org/abs/2208.07824) [[code]](https://github.com/ngocbh/DRL-TCC)
+<!-- #### Conferences -->
+* **Ngoc Bui**, Hieu Trung Nguyen, Viet Anh Nguyen, Rex Ying. "Explaining Graph Neural Networks via Structure-aware Interaction Index", *ICML*, 2024.
+* Duy Nguyen, **Ngoc Bui**, and Viet Anh Nguyen. "Distributionally Robust Recourse Action", *ICLR*, 2023. [[paper]](https://arxiv.org/abs/2302.11211)
 * Tuan-Duy H. Nguyen, **Ngoc Bui**, Duy Nguyen, Man-Chung Yue, Viet Anh Nguyen. "Robust Bayesian Recourse", *UAI*, 2022. [[paper]](https://arxiv.org/pdf/2206.10833.pdf)
 * **Ngoc Bui**, Duy Nguyen, Viet Anh Nguyen. "Counterfactual plans under Distributional Ambiguity", *ICLR*, 2022. [[paper]](https://arxiv.org/abs/2201.12487) [[code]](https://github.com/ngocbh/COPA)
-* **Ngoc Bui**, and Viet-Trung Tran. "A Novel Conditional Random Fields Aided Fuzzy Matching in Vietnamese Address Standardization." *SoICT*, 2019. [[paper]](/assets/pdf/soict19.pdf) [[code]](https://github.com/ngocbh/stavia)
 
-#### Journal
+* **Ngoc Bui**, Phi Le Nguyen, Viet Anh Nguyen, Phan Thuan Do. "A Deep Reinforcement Learning-based Adaptive Charging Policy for Wireless Rechargeable Sensor Networks", IEEE *MASS*, 2022. [[paper]](https://arxiv.org/abs/2208.07824) [[code]](https://github.com/ngocbh/DRL-TCC)
+<!-- * **Ngoc Bui**, and Viet-Trung Tran. "A Novel Conditional Random Fields Aided Fuzzy Matching in Vietnamese Address Standardization." *SoICT*, 2019. [[paper]](/assets/pdf/soict19.pdf) [[code]](https://github.com/ngocbh/stavia) -->
 
-* **Ngoc Bui**, Tam Nguyen, Binh Huynh Thi Thanh, and Trong Vinh Le. "A phenotype-based multiobjective evolutionary algorithm for maximizing lifetime in wireless sensor networks with bounded hop", *Soft Computing*, 2023. [[paper]](/assets/pdf/softcomp23.pdf) [[code]](https://github.com/ngocbh/nebp_wsn)
+<!-- * **Ngoc Bui**, Tam Nguyen, Binh Huynh Thi Thanh, and Trong Vinh Le. "A phenotype-based multiobjective evolutionary algorithm for maximizing lifetime in wireless sensor networks with bounded hop", *Soft Computing*, 2023. [[paper]](/assets/pdf/softcomp23.pdf) [[code]](https://github.com/ngocbh/nebp_wsn) -->
+* **Ngoc Bui**, Duy Nguyen, Man-Chung Yue, and Viet Anh Nguyen. "Coverage-Validity-Aware Algorithmic Recourse", *Operations Research (OPRE)* journal, 2024. [[paper]](https://arxiv.org/abs/2311.11349)
 
 <!-- ## Projects -->
 
