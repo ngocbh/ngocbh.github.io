@@ -28,7 +28,7 @@ layout: default
 
 I am currently a second-year Ph.D. student in Computer Science at Yale University, advised by Prof. Rex Ying. Prior to Yale, I spent two wonderful years as a research resident at VinAI Research under the supervision of Prof. Viet Anh Nguyen. Before that, I earned a bachelor’s degree in Computer Science and a master’s degree in Data Science from Hanoi University of Science and Technology.
 
-My research centers on large language models (LLMs) and their applications, particularly in personalized assistants and synthetic data generation through simulations. I am interested in developing effective memory paradigms that enable LLMs to store and continually update their knowledge—crucial for creating personalized and multi-agentic systems. These advancements expand the scope of LLM applications across diverse domains.
+My research interests broadly include large language models (LLMs) and their applications, such as personalized assistants and synthetic data generation through simulations. I am also very interested in developing effective memory paradigms that enable LLMs to store and continually update their knowledge, which I believe is crucial for creating personalized and (multi-) agentic systems.
 
 ## Selected Publications
 
