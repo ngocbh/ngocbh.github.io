@@ -31,8 +31,8 @@ I am currently a second-year Ph.D. student in Computer Science at Yale Universit
 My research interests broadly include large language models (LLMs) and their applications, such as personalized assistants and synthetic data generation through simulations. I am also very interested in developing effective memory paradigms that enable LLMs to store and continually update their knowledge, which I believe is crucial for creating personalized and (multi-) agentic systems.
 
 ## Selected Publications
-
 <!-- #### Conferences -->
+* **Ngoc Bui**, Duy Nguyen, Man-Chung Yue, and Viet Anh Nguyen. "Coverage-Validity-Aware Algorithmic Recourse", Accepted manuscript at *Operations Research (OPRE)* journal, 2024. [[paper]](https://arxiv.org/abs/2311.11349) [[code]](https://github.com/ngocbh/cvas)
 * **Ngoc Bui**, Hieu Trung Nguyen, Viet Anh Nguyen, Rex Ying. "Explaining Graph Neural Networks via Structure-aware Interaction Index", *ICML*, 2024.
 * Duy Nguyen, **Ngoc Bui**, and Viet Anh Nguyen. "Distributionally Robust Recourse Action", *ICLR*, 2023. [[paper]](https://arxiv.org/abs/2302.11211)
 * Tuan-Duy H. Nguyen, **Ngoc Bui**, Duy Nguyen, Man-Chung Yue, Viet Anh Nguyen. "Robust Bayesian Recourse", *UAI*, 2022. [[paper]](https://arxiv.org/pdf/2206.10833.pdf)
@@ -42,7 +42,6 @@ My research interests broadly include large language models (LLMs) and their app
 <!-- * **Ngoc Bui**, and Viet-Trung Tran. "A Novel Conditional Random Fields Aided Fuzzy Matching in Vietnamese Address Standardization." *SoICT*, 2019. [[paper]](/assets/pdf/soict19.pdf) [[code]](https://github.com/ngocbh/stavia) -->
 
 <!-- * **Ngoc Bui**, Tam Nguyen, Binh Huynh Thi Thanh, and Trong Vinh Le. "A phenotype-based multiobjective evolutionary algorithm for maximizing lifetime in wireless sensor networks with bounded hop", *Soft Computing*, 2023. [[paper]](/assets/pdf/softcomp23.pdf) [[code]](https://github.com/ngocbh/nebp_wsn) -->
-* **Ngoc Bui**, Duy Nguyen, Man-Chung Yue, and Viet Anh Nguyen. "Coverage-Validity-Aware Algorithmic Recourse", *Operations Research (OPRE)* journal, 2024. [[paper]](https://arxiv.org/abs/2311.11349)
 
 <!-- ## Projects -->
 
