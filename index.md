@@ -33,7 +33,7 @@ My research interests broadly include large language models (LLMs) and their app
 ## Selected Publications
 <!-- #### Conferences -->
 * **Ngoc Bui**, Duy Nguyen, Man-Chung Yue, and Viet Anh Nguyen. "Coverage-Validity-Aware Algorithmic Recourse", Accepted manuscript at *Operations Research (OPRE)* journal, 2024. [[paper]](https://arxiv.org/abs/2311.11349) [[code]](https://github.com/ngocbh/cvas)
-* **Ngoc Bui**, Hieu Trung Nguyen, Viet Anh Nguyen, Rex Ying. "Explaining Graph Neural Networks via Structure-aware Interaction Index", *ICML*, 2024.
+* **Ngoc Bui**, Hieu Trung Nguyen, Viet Anh Nguyen, Rex Ying. "Explaining Graph Neural Networks via Structure-aware Interaction Index", *ICML*, 2024. [[paper]](https://arxiv.org/abs/2405.14352) [[code]](https://github.com/ngocbh/MAGE)
 * Duy Nguyen, **Ngoc Bui**, and Viet Anh Nguyen. "Distributionally Robust Recourse Action", *ICLR*, 2023. [[paper]](https://arxiv.org/abs/2302.11211)
 * Tuan-Duy H. Nguyen, **Ngoc Bui**, Duy Nguyen, Man-Chung Yue, Viet Anh Nguyen. "Robust Bayesian Recourse", *UAI*, 2022. [[paper]](https://arxiv.org/pdf/2206.10833.pdf)
 * **Ngoc Bui**, Duy Nguyen, Viet Anh Nguyen. "Counterfactual plans under Distributional Ambiguity", *ICLR*, 2022. [[paper]](https://arxiv.org/abs/2201.12487) [[code]](https://github.com/ngocbh/COPA)
