@@ -3,7 +3,7 @@ title: Ngoc Bui's homepage
 layout: default
 ---
 
-## News
+<!-- ## News -->
 <!-- {% assign new_list = site.data.news | sort:"date" %} -->
 <!-- <div id="content"></div> -->
 <!-- <p -->
@@ -63,10 +63,10 @@ layout: default
 <!-- * The Third prize in Asia HCMC Vietnam National Programming Contest, *2017*. -->
 
 
-<h2 id='contact'>Contacts</h2>
+<!-- <h2 id='contact'>Contacts</h2> -->
 
-* Email: ngocbh.pt (at) gmail (dot) com
-* Github: [ngocbh](https://github.com/ngocbh)
+<!-- * Email: ngocbh.pt (at) gmail (dot) com -->
+<!-- * Github: [ngocbh](https://github.com/ngocbh) -->
 
 <!-- ## References  -->
 <!-- * [Prof. Rex Ying](https://www.cs.yale.edu/homes/ying-rex/) -->
@@ -82,5 +82,5 @@ layout: default
 <!-- * Duy Nguyen *at VinAI* -->
 <!-- * Tam Nguyen *at HUST* -->
 
-<img src="{{ '/assets/images/cosenkid.jpg' | relative_url }}" width="20" height="20" alt="Paris" style='display: block;margin-left: auto;margin-right: auto;'/>
+<!-- <img src="{{ '/assets/images/cosenkid.jpg' | relative_url }}" width="20" height="20" alt="Paris" style='display: block;margin-left: auto;margin-right: auto;'/> -->
 
