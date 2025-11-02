@@ -82,5 +82,5 @@ layout: default
 <!-- * Duy Nguyen *at VinAI* -->
 <!-- * Tam Nguyen *at HUST* -->
 
-<img src="{{ '/assets/images/cosenkid.png' | relative_url }}" width="20" height="20" alt="Paris" style='display: block;margin-left: auto;margin-right: auto;'/>
+<img src="{{ '/assets/images/cosenkid.jpg' | relative_url }}" width="20" height="20" alt="Paris" style='display: block;margin-left: auto;margin-right: auto;'/>
 
