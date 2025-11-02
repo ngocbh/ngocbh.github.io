@@ -4,25 +4,26 @@ layout: default
 ---
 
 ## News
-{% assign new_list = site.data.news | sort:"date" %}
-<div id="content"></div>
-<p
-      style="
-        margin-left: 22px;
-        color: rgb(0, 0, 238);
-        margin-top: 0px;
-        text-decoration: underline;
-        cursor: pointer;
-      "
-      id="loadmore"
-    >
-      more...
-    </p>
-<ul id='newList' style="display: none;">
-{% for new in new_list reversed %}
-    <li>{{new.date | date: "%b %Y" }}: {{new.content | markdownify | remove: '<p>' | remove: '</p>' }}</li>
-{% endfor %}
-</ul>
+<!-- {% assign new_list = site.data.news | sort:"date" %} -->
+<!-- <div id="content"></div> -->
+<!-- <p -->
+<!--       style=" -->
+<!--         margin-left: 22px; -->
+<!--         color: rgb(0, 0, 238); -->
+<!--         margin-top: 0px; -->
+<!--         text-decoration: underline; -->
+<!--         cursor: pointer; -->
+<!--       " -->
+<!--       id="loadmore" -->
+<!--     > -->
+<!--       more... -->
+<!-- </p> -->
+
+<!-- <ul id='newList' style="display: none;"> -->
+<!-- {% for new in new_list reversed %} -->
+<!--     <li>{{new.date | date: "%b %Y" }}: {{new.content | markdownify | remove: '<p>' | remove: '</p>' }}</li> -->
+<!-- {% endfor %} -->
+<!-- </ul> -->
 
 <!-- ## Biography -->
 
