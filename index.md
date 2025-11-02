@@ -32,7 +32,7 @@ layout: default
 <!-- My research interests broadly include large language models (LLMs) and their applications, such as personalized assistants and synthetic data generation through simulations. I am also very interested in developing effective memory paradigms that enable LLMs to store and continually update their knowledge, which I believe is crucial for creating personalized and (multi-) agentic systems. -->
 
 <!-- ## Selected Publications -->
-<!-- <!-- #### Conferences --> -->
+<!-- <!-- #### Conferences -->
 <!-- * **Ngoc Bui**, Duy Nguyen, Man-Chung Yue, and Viet Anh Nguyen. "Coverage-Validity-Aware Algorithmic Recourse", Accepted manuscript at *Operations Research (OPRE)* journal, 2024. [[paper]](https://arxiv.org/abs/2311.11349) [[code]](https://github.com/ngocbh/cvas) -->
 <!-- * **Ngoc Bui**, Hieu Trung Nguyen, Viet Anh Nguyen, Rex Ying. "Explaining Graph Neural Networks via Structure-aware Interaction Index", *ICML*, 2024. [[paper]](https://arxiv.org/abs/2405.14352) [[code]](https://github.com/ngocbh/MAGE) -->
 <!-- * Duy Nguyen, **Ngoc Bui**, and Viet Anh Nguyen. "Distributionally Robust Recourse Action", *ICLR*, 2023. [[paper]](https://arxiv.org/abs/2302.11211) -->
